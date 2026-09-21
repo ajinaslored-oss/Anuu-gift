@@ -5,7 +5,7 @@
    firefly name formation on the night screen.
 ========================================= */
 
-const BIRTHDAY_NAME = "Luv u Anuu!!";
+const BIRTHDAY_NAME = "My Baby...Luv U Anuu!!";
 
 
 /* =========================================
